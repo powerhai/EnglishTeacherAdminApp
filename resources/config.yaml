@@ -1,0 +1,5 @@
+baidu.baseURL: "https://fanyi-api.baidu.com/api/trans/vip/translate"
+baidu.clientID: "20180527000167467"
+baidu.clientSecret: "1cuzoRdGSExIdAWbecTd"
+
+server.baseURL: "http://192.168.31.162:8888/api" 
